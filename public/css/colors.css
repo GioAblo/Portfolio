@@ -1,0 +1,9 @@
+:root {
+    --PrimaryColor:  #2B2E4A;
+    --AccentColor: #FF7E67;
+    --Background:  #1A1C28;
+    --Text: #D3D3D3; 
+}
+.fullname {
+    color: var(--AccentColor);
+}
